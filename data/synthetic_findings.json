@@ -1,0 +1,7 @@
+[
+  {"finding_id":"F-1001","asset_id":"srv-pay-01","source":"tenable","severity":"critical","owner":"payments-platform","first_seen":"2026-08-01T09:00:00Z","last_seen":"2026-09-09T09:00:00Z","status":"open","cve":"CVE-2026-1111"},
+  {"finding_id":"F-1002","asset_id":"srv-lab-02","source":"qualys","severity":"high","owner":null,"first_seen":"2026-07-10T10:00:00Z","last_seen":"2026-08-01T10:00:00Z","status":"open","cve":"CVE-2026-2222"},
+  {"finding_id":"F-1003","asset_id":"srv-lab-02","source":"qualys","severity":"high","owner":"lab-platform","first_seen":"2026-07-10T10:05:00Z","last_seen":"2026-08-01T10:05:00Z","status":"open","cve":"CVE-2026-2222"},
+  {"finding_id":"F-1004","asset_id":"wkstn-0042","source":"defender","severity":"medium","owner":"end-user-compute","first_seen":"2026-09-01T13:00:00Z","last_seen":"2026-09-09T13:00:00Z","status":"remediated","cve":"CVE-2026-3333"},
+  {"finding_id":"F-1005","asset_id":"api-edge-01","source":"custom-feed","severity":"high","owner":"api-platform","first_seen":"2026-09-05T11:00:00Z","last_seen":"2026-09-09T11:00:00Z","status":"investigating","cve":"CVE2026-4444"}
+]
